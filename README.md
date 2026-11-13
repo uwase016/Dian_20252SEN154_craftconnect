@@ -1,2 +1,15 @@
-# Dian_20252SEN154_craftconnect
-CraftConnect Rwanda is an Oracle PL/SQL project for managing local artisans,handmade products,inventory,customers and orders.
+# CraftConnect Rwanda – Data
+
+This folder will contain the datasets used in the project.
+
+## Planned Data
+- Artisan records
+- Product records
+- Product categories
+- Customer records
+- Order records
+- Payment records
+- Stock movement records
+
+## Data Collection
+Data will be obtained from verified sources or prepared as documented sample records for educational purposes.
